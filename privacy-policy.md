@@ -4,7 +4,7 @@
 
 ## About Zikr Counter – Tasbih App
 
-**Zikr Counter – Tasbih App** is a simple and privacy-first mobile application designed to assist users in performing daily **zikr (remembrance of Allah)** and **tasbih (praise counting)**. It offers customizable counters, spiritual phrases in Arabic and translated text, and local notifications to help users stay consistent — all without collecting any personal data.
+**Zikr Counter – Tasbih App** is a simple mobile application designed to assist users in performing daily **zikr (remembrance of Allah)** and **tasbih (praise counting)**. It offers customizable counters, spiritual phrases in Arabic and translated text, and local notifications to help users stay consistent — all without collecting any personal data.
 
 ## Information Collection
 
