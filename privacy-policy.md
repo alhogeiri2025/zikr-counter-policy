@@ -2,7 +2,9 @@
 
 **Effective Date:** June 24, 2025
 
-Zikr Counter (“the App”) respects your privacy. This Privacy Policy explains how the App handles user data.
+## About Zikr Counter – Tasbih App
+
+**Zikr Counter – Tasbih App** is a simple and privacy-first mobile application designed to assist users in performing daily **zikr (remembrance of Allah)** and **tasbih (praise counting)**. It offers customizable counters, spiritual phrases in Arabic and translated text, and local notifications to help users stay consistent — all without collecting any personal data.
 
 ## Information Collection
 
